@@ -8,3 +8,6 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 # Test commit from Cursor
 this is a test
 # Please enter the commit message...
+
+# another test line
+this is another line
